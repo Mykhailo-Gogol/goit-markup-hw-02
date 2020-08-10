@@ -1,0 +1,149 @@
+/* Global */
+
+body {
+  font-family: Roboto;
+}
+
+a,
+a:visited {
+  color: #212121;
+  text-decoration: none;
+}
+
+ul {
+  list-style-type: none;
+}
+
+h1 {
+  font-weight: 900;
+  font-size: 44px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+
+  /* color: #ffffff; */
+}
+
+h2 {
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 42px;
+  letter-spacing: 0.03em;
+
+  color: #212121;
+}
+
+p {
+  font-size: 14px;
+  letter-spacing: 0.03em;
+  color: #757575;
+  line-height: 24px;
+}
+
+address {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+
+  letter-spacing: 0.03em;
+
+  /* color: #ffffff; */
+}
+
+/* Classes Home*/
+.h4-features {
+  font-weight: bold;
+  font-size: 14px;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  line-height: 16px;
+
+  color: #212121;
+}
+
+.font-logo {
+  font-family: Raleway;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 26px;
+  letter-spacing: 0.03em;
+}
+
+.color-logo {
+  color: #2196f3;
+}
+
+.link-nav {
+  font-weight: 500;
+  font-size: 14px;
+  letter-spacing: 0.02em;
+
+  color: #212121;
+}
+
+.link-nav:hover {
+  color: #2196f3;
+}
+
+.link-nav.nav-contacts {
+  color: #757575;
+}
+
+.nav-contacts:hover {
+  color: #2196f3;
+}
+
+.card-name {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  letter-spacing: 0.03em;
+
+  color: #212121;
+}
+
+.card-desc {
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 19px;
+  letter-spacing: 0.03em;
+
+  color: #757575;
+}
+
+.color-footer {
+  color: #ffffff;
+}
+
+.link-footer.footer-contacts {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+
+  letter-spacing: 0.03em;
+  /* color: rgba(255, 255, 255, 0.6); */
+}
+
+/* Classes Portfolio */
+.card-desc-portfolio {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 30px;
+
+  letter-spacing: 0.03em;
+
+  color: #757575;
+}
+
+.card-name-portfolio {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 36px;
+
+  letter-spacing: 0.06em;
+
+  color: #212121;
+}
